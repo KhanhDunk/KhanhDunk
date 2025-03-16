@@ -64,6 +64,9 @@ Beyond coding, I enjoy exploring new technologies, contributing to open-source p
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
 </p>
 # 💫 About Me:
 I'm a student 3rd at University 
