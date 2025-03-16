@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Phạm Khánh Đăng (aka Dunk)  
 
-I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, passionate about building scalable, high-performance web applications.  
+I'm a BackEnd Web Developer and Tech Enthusiast from Vietnam 🇻🇳, passionate about building scalable, high-performance web applications.
 
+I specialize in designing robust architectures, optimizing database performance, and developing secure APIs. With a strong foundation in C# .NET, Java, and SQL, I love solving complex problems and bringing innovative ideas to life.
+
+Beyond coding, I enjoy exploring new technologies, contributing to open-source projects, and continuously improving my skills to stay ahead in the ever-evolving tech landscape. 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFF00&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+profile;Enjoy+your+visit!" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
-
 
 ---
 
@@ -13,7 +19,7 @@ I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, p
 
 - 🎓 **Education**: Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)  
 - 🏠 **Location**: Ho Chi Minh City, Vietnam  
-- 💡 **Interests**: Software Development, UI/UX Design, Cybersecurity  
+- 💡 **Interests**: Software Development, UI/UX Design, Cybersecurity , Sport 
 - 📬 **Contact me**: khanhdangfc2004@gmail.com  
 
 ---
@@ -59,6 +65,18 @@ I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, p
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
 </p>
+# 💫 About Me:
+I'm a student 3rd at University 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KhanhDunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KhanhDunk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhDunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KhanhDunk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📱 Connect with Me  
 <h3 align="left">Connect with me:</h3>
