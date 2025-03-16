@@ -76,6 +76,22 @@ I'm a student 3rd at University
 ---
 [![](https://visitcount.itsvg.in/api?id=KhanhDunk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+## 🧪 **Testing with Selenium**
+- ✅ Experience in writing automated UI tests using Selenium WebDriver.
+- 📌 Proficient in integrating Selenium with C# and Java for web testing.
+- 🔄 Experience in handling dynamic elements, waits, and test assertions.
+- 🎯 Used Selenium with unit testing frameworks like NUnit and JUnit.
+- 📊 Experience in CI/CD integration for automated testing.
+
+---
+## 🔄 **Working with Agile & Scrum**
+- 📅 Familiar with Agile methodologies and Scrum framework.
+- 🎯 Experience in sprint planning, daily stand-ups, and retrospectives.
+- 📌 Worked with tools like Jira and Trello for backlog and sprint management.
+- 📝 Strong collaboration and communication skills within cross-functional teams.
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📱 Connect with Me  
