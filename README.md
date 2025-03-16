@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phạm Khánh Đăng (aka Dunk)  
 
-I'm a **Full-Stack Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, passionate about building scalable, high-performance web applications.  
+I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, passionate about building scalable, high-performance web applications.  
 
 ---
 
@@ -51,6 +51,8 @@ I'm a **Full-Stack Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
 </p>
 ---
 
@@ -66,6 +68,7 @@ I'm a **Full-Stack Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Buy coffe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy coffee" /></a></p>
+
  
 
 🚀 **Let's build something amazing together!** 🚀  
