@@ -2,6 +2,11 @@
 
 I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, passionate about building scalable, high-performance web applications.  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
+
+
 ---
 
 ## 🌎 About Me  
@@ -12,14 +17,14 @@ I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, p
 - 📬 **Contact me**: khanhdangfc2004@gmail.com  
 
 ---
-
 ## 💻 Tech Stack & Skills  
 
-### 🌐 *FrontEnd Development**  
+### 🌐 **FrontEnd Development**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 ### 💻 **BackEnd Development**  
@@ -29,7 +34,7 @@ I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, p
   
 </p>
 
-## ** Framworks & Libraries
+### Framworks & Libraries
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -54,21 +59,17 @@ I'm a **BackEnd Web Developer** and **Tech Enthusiast** from Vietnam 🇻🇳, p
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
 </p>
----
 
 ## 📱 Connect with Me  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khánh-đăng-b2a369271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khánh-đăng-b2a369271/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/khanhdang312/?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khanhdang312/?locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_khanhdunk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_khanhdunk/" height="30" width="40" /></a>
 </p>
----
-
+🚀 **Let's build something amazing together!** 🚀  
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Buy coffe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy coffee" /></a></p>
-
+<br/>
  
 
-🚀 **Let's build something amazing together!** 🚀  
