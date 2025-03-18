@@ -100,7 +100,7 @@ I'm a student 3rd at University
 ## 📱 Connect with Me  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="[https://www.linkedin.com/in/khánh-đăng-b2a369271/" alt="https://www.linkedin.com/in/khánh-đăng-b2a369271/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.linkedin.com/in/khánh-đăng-b2a369271/" alt="https://www.linkedin.com/in/khánh-đăng-b2a369271/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/khanhdang312/?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khanhdang312/?locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_khanhdunk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_khanhdunk/" height="30" width="40" /></a>
 </p>
